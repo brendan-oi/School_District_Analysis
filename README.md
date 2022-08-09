@@ -21,3 +21,12 @@ Top Five Schools
 
 Bottom Five Schools
 ![Bottom_Five_Schools](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.34%20AM.png)
+
+## Summary
+
+Omitting the compromised data did lower the average scores and passing rates on a district level, but by small amounts, less than a percent in each case. 
+
+Naturally, for Thomas Highschool specifically, the changes were more impactful, but THS was not moved in the school ranking.
+
+Other school categories were affected, with charter schools, medium sized schools and schools in the $631 - $645 per student spending bin seeing their reading rate, math scores and math passing rate, and over all passing rate decreased.
+
