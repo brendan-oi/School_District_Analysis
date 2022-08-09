@@ -20,4 +20,4 @@ Top Five Schools
 ![Top_Five_Schools](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.26%20AM.png)
 
 Bottom Five Schools
-![Bottom_Five_Schools](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.02%20AM.pn)
+![Bottom_Five_Schools](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.34%20AM.png)
