@@ -17,7 +17,7 @@ Individual Schools Summary
 ![Individual_School_Summary](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.02%20AM.png)
 
 Top Five Schools
-![Top_Five_Schools](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.02%20AM.png)
+![Top_Five_Schools]([https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.02%20AM.png](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.02%20AM.png))
 
 Bottom Five Schools
-![Bottom_Five_Schools](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.02%20AM.png)
+![Bottom_Five_Schools](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.53.02%20AM.pn)
