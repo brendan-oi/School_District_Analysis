@@ -11,5 +11,4 @@ This project asks us to examine the performance and other data for a school dist
 ## Results
 
 District Summary
-!(District_Summary)[https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.47.30%20AM.png]
-          
+![District_Summary](https://github.com/brendan-oi/School_District_Analysis/blob/main/Resources/Screen%20Shot%202022-08-09%20at%2010.47.30%20AM.png)
